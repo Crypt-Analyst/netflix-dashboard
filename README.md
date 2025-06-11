@@ -1,10 +1,10 @@
-# 📊 Netflix Dashboard with Streamlit
+# Netflix Dashboard with Streamlit
 
 An interactive data visualization app built using **Streamlit**, **Pandas**, **Seaborn**, and **Matplotlib** to explore trends in Netflix titles.
 
 ---
 
-## 🔍 Overview
+## Overview
 
 This dashboard allows users to:
 - Compare counts of Movies vs TV Shows
@@ -15,7 +15,7 @@ This dashboard allows users to:
 
 ---
 
-## 🧰 Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
@@ -25,9 +25,6 @@ This dashboard allows users to:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/Crypt-Analyst/netflix-dashboard.git
-cd netflix-dashboard
+
